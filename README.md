@@ -1,3 +1,3 @@
-# Squeeze Backtest Strategy for Tradignview
+# Squeeze Backtest Script
 
-Strategy on Tradingview: https://www.tradingview.com/script/SnMzB7ZG-Squeeze-Backtest-by-Shaqi-v1-0/
+Script on TradingView: https://www.tradingview.com/script/SnMzB7ZG-Squeeze-Backtest-by-Shaqi-v1-0/
